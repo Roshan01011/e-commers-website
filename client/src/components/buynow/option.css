@@ -1,0 +1,18 @@
+select {
+}
+.options {
+  display: flex;
+}
+.op {
+  margin-left: 10px;
+  padding: 5px;
+  background-color: #ff5580;
+}
+.op:hover {
+  background-color: #ff0080;
+  cursor: pointer;
+}
+select {
+  border-radius: 15px;
+  padding: 5px;
+}
